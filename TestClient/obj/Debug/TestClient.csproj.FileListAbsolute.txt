@@ -1,0 +1,7 @@
+C:\Users\houss\OneDrive - Conestoga College\Desktop\A2\TestClient\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\houss\OneDrive - Conestoga College\Desktop\A2\TestClient\TestClient\bin\Debug\TestClient.exe
+C:\Users\houss\OneDrive - Conestoga College\Desktop\A2\TestClient\TestClient\bin\Debug\TestClient.pdb
+C:\Users\houss\OneDrive - Conestoga College\Desktop\A2\TestClient\TestClient\obj\Debug\TestClient.csproj.AssemblyReference.cache
+C:\Users\houss\OneDrive - Conestoga College\Desktop\A2\TestClient\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\houss\OneDrive - Conestoga College\Desktop\A2\TestClient\TestClient\obj\Debug\TestClient.exe
+C:\Users\houss\OneDrive - Conestoga College\Desktop\A2\TestClient\TestClient\obj\Debug\TestClient.pdb
